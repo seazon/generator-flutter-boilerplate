@@ -6,7 +6,7 @@ Since this generator has not been published on npm, need to generate locally.
 npm install -g yo
 ```
 2. Clone this repo
-3. Goto repo dir and build it
+3. Go to repo dir and build it
 ```bash
 npm link
 ```

@@ -1,3 +1,20 @@
+# Note
+
+Since this generator has not been published on npm, need to generate locally.
+1. Install [Yeoman](http://yeoman.io) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+```bash
+npm install -g yo
+```
+2. Clone this repo
+3. Goto repo dir and build it
+```bash
+npm link
+```
+4. Go to new project dir and run
+```bash
+yo generator-flutter-boilerplate
+```
+
 # generator-flutter-boilerplate [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > generate flutter project
 

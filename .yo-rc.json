@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "shawn",
+      "authorEmail": "shawn@wiredcraft.com",
+      "authorUrl": " "
+    }
+  }
+}
